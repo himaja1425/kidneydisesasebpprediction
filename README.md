@@ -11,7 +11,7 @@ FUTURE READY TALENT -INTERNSHIP PROJECT
 
 
 MICROSOFT AZURE IN HEALTH INDUSTRY
-In this project I am building a machine learning solution on Microsoft Azure and deploying it to predict whether a patient has a kidney disease and bp .
+In this project I am building a machine learning solution on Microsoft Azure and deploying it to predict whether a patient has a kidney disease has bp .
 -----------------------------------------------------------------------------------------------
 
 
